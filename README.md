@@ -4,6 +4,7 @@
   2. Họ Tên: Trầm Thị Tuyết Thanh 
   3. Địa Chỉ Mail: 2059054@itec.hcmus.edu.vn
   4. TK Github: https://github.com/TramThanh
+  5. Đồ án trên Github: https://github.com/TramThanh/DoANCuoiKi-AOOP
 ## 2. Đánh Giá Mức Độ Hoàn Thành Của Đồ Án
 
 1. Các Chức Năng Chưa Thực Hiện Được
